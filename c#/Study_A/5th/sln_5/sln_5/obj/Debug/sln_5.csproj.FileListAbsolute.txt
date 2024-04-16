@@ -1,0 +1,7 @@
+D:\Study_A\5th\sln_5\sln_5\bin\Debug\sln_5.exe.config
+D:\Study_A\5th\sln_5\sln_5\bin\Debug\sln_5.exe
+D:\Study_A\5th\sln_5\sln_5\bin\Debug\sln_5.pdb
+D:\Study_A\5th\sln_5\sln_5\obj\Debug\sln_5.csproj.AssemblyReference.cache
+D:\Study_A\5th\sln_5\sln_5\obj\Debug\sln_5.csproj.CoreCompileInputs.cache
+D:\Study_A\5th\sln_5\sln_5\obj\Debug\sln_5.exe
+D:\Study_A\5th\sln_5\sln_5\obj\Debug\sln_5.pdb
