@@ -9,6 +9,10 @@ namespace project_2
 {
     class Test
     {
+        public static int power(int x)
+        {
+            return x * x;
+        }
         // 인스턴스 메서드 생성과 사용
         public int Power(int x)
         {
@@ -60,7 +64,7 @@ namespace project_2
         static void Main(string[] args)
         {
             Test test = new Test();
-            // Test.Power(929); <-- 에러!
+            Test.power(929);
             test.Power(929);
             
             Calcurator.Plus(20, 30);

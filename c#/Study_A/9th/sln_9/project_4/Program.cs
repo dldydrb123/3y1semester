@@ -12,12 +12,6 @@ namespace project_4
         static void Main(string[] args)
         {
             // 랜덤 난수 메서드
-            Random rand = new Random();
-            Console.WriteLine(rand.Next());
-            Console.WriteLine(rand.Next(10));
-            Console.WriteLine(rand.Next(9, 10));
-            Console.WriteLine(rand.NextDouble()*10);
-
             // 배열 생성
             int[] intArray = new int[3] { 10, 20, 30 };
             string[] stringArray = new string[3] { "aa", "aa", "aa" };
@@ -29,9 +23,11 @@ namespace project_4
 
             // List 클래스
             // List 클래스의 인스턴스 생성
-            List<int> list = new List<int>();
-            list.Add(456);
-            list.Add(789);
+            List<int> list = new List<int>
+            {
+                456,
+                789
+            };
             list.Insert(list.Count-2, 123);
             foreach(var item in list)
             {

@@ -5,3 +5,10 @@ D:\Study_A\10th\sln_10\project_1\obj\Debug\project_1_using static class.csproj.A
 D:\Study_A\10th\sln_10\project_1\obj\Debug\project_1_using static class.csproj.CoreCompileInputs.cache
 D:\Study_A\10th\sln_10\project_1\obj\Debug\project_1.exe
 D:\Study_A\10th\sln_10\project_1\obj\Debug\project_1.pdb
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\bin\Debug\project_1.exe.config
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\bin\Debug\project_1.exe
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\bin\Debug\project_1.pdb
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\obj\Debug\project_1_using static class.csproj.AssemblyReference.cache
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\obj\Debug\project_1_using static class.csproj.CoreCompileInputs.cache
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\obj\Debug\project_1.exe
+E:\3y1semester\c#\Study_A\10th\sln_10\project_1\obj\Debug\project_1.pdb

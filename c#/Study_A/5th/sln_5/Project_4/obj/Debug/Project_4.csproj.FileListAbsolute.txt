@@ -1,7 +1,0 @@
-D:\Study_A\5th\sln_5\Project_4\bin\Debug\Project_4.exe.config
-D:\Study_A\5th\sln_5\Project_4\bin\Debug\Project_4.exe
-D:\Study_A\5th\sln_5\Project_4\bin\Debug\Project_4.pdb
-D:\Study_A\5th\sln_5\Project_4\obj\Debug\Project_4.csproj.AssemblyReference.cache
-D:\Study_A\5th\sln_5\Project_4\obj\Debug\Project_4.csproj.CoreCompileInputs.cache
-D:\Study_A\5th\sln_5\Project_4\obj\Debug\Project_4.exe
-D:\Study_A\5th\sln_5\Project_4\obj\Debug\Project_4.pdb
