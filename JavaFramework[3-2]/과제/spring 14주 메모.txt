@@ -1,0 +1,5 @@
+persistance에서 update와 create는 차이가 있는데 create는 런처 실행마다
+db가 새로 만들어지지만
+
+update는 기존 db에서 런처가 실행된다
+
