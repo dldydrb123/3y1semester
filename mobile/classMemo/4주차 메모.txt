@@ -1,4 +1,0 @@
-mobile 4주차 viewFlipper
-
-androidManifest.xml에서 theme를
-MaterialComponents.DayNight로 바꾸기
