@@ -26,6 +26,8 @@ namespace project_2
 
         static void Main(string[] args)
         {
+            Parent parent = new Parent();
+            Console.WriteLine(parent.ToString());
         }
     }
 }

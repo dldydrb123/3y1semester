@@ -8,12 +8,10 @@ namespace project_1
 {
     internal class Book
     {
-        // 필드값 
-        public String title;
-        public String writer;
-        public String content;
-        public String publisher;
+        public string title;
+        public string writer;
+        public string content;
+        public string publisher;
         public int published_date;
-
     }
 }

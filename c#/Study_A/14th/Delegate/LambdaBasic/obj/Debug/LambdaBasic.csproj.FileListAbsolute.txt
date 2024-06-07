@@ -1,0 +1,7 @@
+D:\Study_A\14th\Delegate\LambdaBasic\bin\Debug\LambdaBasic.exe.config
+D:\Study_A\14th\Delegate\LambdaBasic\bin\Debug\LambdaBasic.exe
+D:\Study_A\14th\Delegate\LambdaBasic\bin\Debug\LambdaBasic.pdb
+D:\Study_A\14th\Delegate\LambdaBasic\obj\Debug\LambdaBasic.csproj.AssemblyReference.cache
+D:\Study_A\14th\Delegate\LambdaBasic\obj\Debug\LambdaBasic.csproj.CoreCompileInputs.cache
+D:\Study_A\14th\Delegate\LambdaBasic\obj\Debug\LambdaBasic.exe
+D:\Study_A\14th\Delegate\LambdaBasic\obj\Debug\LambdaBasic.pdb

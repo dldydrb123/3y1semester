@@ -47,6 +47,7 @@
     <Compile Include="BoxB.cs" />
     <Compile Include="BoxC.cs" />
     <Compile Include="BoxD.cs" />
+    <Compile Include="BoxE.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

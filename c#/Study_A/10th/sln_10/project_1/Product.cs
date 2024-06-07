@@ -8,19 +8,7 @@ namespace project_1
 {
     internal class Product
     {
-        /* (**) get, set 선언
-        public int Id { get; set; } */
-
-        public String name;
+        public string name;
         public int price;
-
-        /*
-        public Product(String name, int price)
-        {
-            this.name = name;
-            this.price = price;
-        }
-        */
-
     }
 }

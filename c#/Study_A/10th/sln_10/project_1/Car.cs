@@ -10,12 +10,11 @@ namespace project_1
     {
         public void Hi()
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("안녕하세요");
         }
-
         public void Go()
         {
-            Console.WriteLine("Go");
+            Console.WriteLine("전진하다");
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\Study_A\13th\sln_13\CInheritance\bin\Debug\CInheritance.exe.config
+D:\Study_A\13th\sln_13\CInheritance\bin\Debug\CInheritance.exe
+D:\Study_A\13th\sln_13\CInheritance\bin\Debug\CInheritance.pdb
+D:\Study_A\13th\sln_13\CInheritance\obj\Debug\CInheritance.csproj.AssemblyReference.cache
+D:\Study_A\13th\sln_13\CInheritance\obj\Debug\CInheritance.csproj.CoreCompileInputs.cache
+D:\Study_A\13th\sln_13\CInheritance\obj\Debug\CInheritance.exe
+D:\Study_A\13th\sln_13\CInheritance\obj\Debug\CInheritance.pdb

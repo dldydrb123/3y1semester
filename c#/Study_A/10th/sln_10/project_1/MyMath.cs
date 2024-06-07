@@ -8,8 +8,6 @@ namespace project_1
 {
     internal class MyMath
     {
-        // static 키워드의 의미 --> PI 변수는 이미 메모리 공간을 확보(할당)
-        public  double PI = Math.PI;
-
+        public static double PI = 3.141592;
     }
 }

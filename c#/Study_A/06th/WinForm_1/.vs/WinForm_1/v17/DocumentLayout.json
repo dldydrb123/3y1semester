@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_A\\6th\\WinForm_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E71697-2D56-4231-97EC-A13472EA1AD7}|WinForm_1\\WinForm_1.csproj|D:\\Study_A\\6th\\WinForm_1\\winform_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E71697-2D56-4231-97EC-A13472EA1AD7}|WinForm_1\\WinForm_1.csproj|solutionrelative:winform_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E71697-2D56-4231-97EC-A13472EA1AD7}|WinForm_1\\WinForm_1.csproj|d:\\study_a\\6th\\winform_1\\winform_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E71697-2D56-4231-97EC-A13472EA1AD7}|WinForm_1\\WinForm_1.csproj|solutionrelative:winform_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study_A\\6th\\WinForm_1\\WinForm_1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm_1\\Form1.cs",
+              "ToolTip": "D:\\Study_A\\6th\\WinForm_1\\WinForm_1\\Form1.cs",
+              "RelativeToolTip": "WinForm_1\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:04:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study_A\\6th\\WinForm_1\\WinForm_1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm_1\\Form1.cs",
+              "ToolTip": "D:\\Study_A\\6th\\WinForm_1\\WinForm_1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WinForm_1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:02:30.578Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

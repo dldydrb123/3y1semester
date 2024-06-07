@@ -1,0 +1,7 @@
+D:\Study_A\7th\sln_7\project_2\bin\Debug\project_2.exe.config
+D:\Study_A\7th\sln_7\project_2\bin\Debug\project_2.exe
+D:\Study_A\7th\sln_7\project_2\bin\Debug\project_2.pdb
+D:\Study_A\7th\sln_7\project_2\obj\Debug\project_2.csproj.AssemblyReference.cache
+D:\Study_A\7th\sln_7\project_2\obj\Debug\project_2.csproj.CoreCompileInputs.cache
+D:\Study_A\7th\sln_7\project_2\obj\Debug\project_2.exe
+D:\Study_A\7th\sln_7\project_2\obj\Debug\project_2.pdb

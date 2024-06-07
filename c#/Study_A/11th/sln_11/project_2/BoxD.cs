@@ -34,15 +34,13 @@ namespace project_2
         }
         public int Area() //인스턴스 메서드
         {
-            return this.width * this.height;
+            //return this.width * this.height;
+            return Width * Height;
         }
         public BoxD(int width, int height) //생성자
         {
             Width = width;
             Height = height;
         }
-
-
-
     }
 }
