@@ -1,7 +1,0 @@
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\bin\Debug\project_1.exe.config
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\bin\Debug\project_1.exe
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\bin\Debug\project_1.pdb
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\obj\Debug\project_1_class.csproj.AssemblyReference.cache
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\obj\Debug\project_1_class.csproj.CoreCompileInputs.cache
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\obj\Debug\project_1.exe
-E:\3y1semester\c#\Study_A\9th\sln_9\project_1\obj\Debug\project_1.pdb
